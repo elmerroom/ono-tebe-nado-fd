@@ -360,13 +360,13 @@
   text-decoration: none;
 }
 
-.icons{
+.icons {
   justify-self: end;
 }
 
-.footer__social-list { 
+.footer__social-list {
   display: flex;
-  gap: 0 48px;
+  gap:  48px;
 }
 
 .footer__social-icon {
