@@ -309,7 +309,6 @@
 }
 
 .about__wrapper-for-gap {
-  gap: 24px;
   display: flex;
   flex-direction: column;
   gap: 24px;
